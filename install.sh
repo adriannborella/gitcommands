@@ -1,0 +1,1 @@
+sudo chmod +x git-* && sudo rm /usr/local/bin/git-*.sh && sudo cp ./git-*.sh /usr/local/bin/
